@@ -1,4 +1,4 @@
-# Linen - A Starter Theme for Ghost
+# FLYING KIWI -Blog of random posts about how to fly as a Kiwi
 
 **Get started making great Ghost themes with Linen!**
 
